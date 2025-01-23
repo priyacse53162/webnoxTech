@@ -1,0 +1,28 @@
+.carouselcontentparagrapgh {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: #fafcfc;
+}
+.carouselcontentheading {
+  font-family: 'roboto';
+  font-size: 50px;
+  color: #fafcfc;
+  font-weight: bold;
+  width: 50%;
+  margin-top: 0px;
+}
+.carouselcontentbutton {
+  background-color: transparent;
+  border: 1px solid #fafcfc;
+  border-radius: 5px;
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #fafcfc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.carouselcontent {
+  padding: 10px;
+}
